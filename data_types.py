@@ -128,3 +128,4 @@ print(type(pin_value))
 
 # Error if you attempt to cast incorrect data
 # pin_value = int("Kolkata")        #can't give incorrect data
+
