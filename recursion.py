@@ -12,3 +12,5 @@ mynewtotal = add_one(0)
 print(mynewtotal)
 
  
+
+# Daily Log: 11
