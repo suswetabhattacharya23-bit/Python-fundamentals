@@ -7,3 +7,4 @@ meaning = " 8 "
 # TERNARY OPERATOR
 print('Right on') if int(meaning) > 10 else print('Not today')
 
+ 
