@@ -8,3 +8,5 @@ meaning = " 8 "
 print('Right on') if int(meaning) > 10 else print('Not today')
 
  
+
+# Daily Log: 10
