@@ -13,3 +13,5 @@ message = "\n{} has {} coins left.".format(person, coins)
 print(message)
 
  
+
+# Daily Log: 6
