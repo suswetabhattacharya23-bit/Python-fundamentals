@@ -130,3 +130,5 @@ print(type(pin_value))
 # pin_value = int("Kolkata")        #can't give incorrect data
 
  
+
+# Daily Log: 2
